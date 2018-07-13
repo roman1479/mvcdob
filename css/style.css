@@ -1,0 +1,49 @@
+header{
+    
+background-color: #001f71;
+    
+/* display:  flex; */
+    
+padding-left:  40px;
+    
+height: 50px;
+}
+.menu{
+}
+.menu ul{
+display:  flex;
+}
+.menu li{
+margin-right:  40px;
+}
+.menu a{
+
+}
+.logo{color:  #fff;/* width:  100px; *//* height:  50px; */}
+.regform h1{
+	text-align:  center;
+	font-weight:  bold;
+}
+.regform{
+	    width: 500px;
+	    margin:  0 auto;
+}
+.regform input{width:  100%;margin-bottom:  15px;margin-top: -4px;color: #5d5d5d;}
+.regform .submit{
+
+}
+.regform label{
+
+}
+.error{
+	    height: 15px;
+	    display: none;
+}
+.photo1{width: 100%;background: url(/images/3991_3b78164….jpg);background-repeat: no-repeat;height: 350px;background-size: cover;background-position: center;}
+.photo2{width:  100%;background: url(/images/3991_3b78164….jpg);background-repeat: no-repeat;height: 350px;background-size: cover;background-position: center;}
+.polnoe{height: auto;}
+.polnoe h3{
+	    position: absolute;
+    color: #fff;
+    padding-left: 15px;
+}
